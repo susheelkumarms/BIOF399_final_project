@@ -18,6 +18,9 @@ Classes:
 3. NonDemented 
 4. ModerateDemeneted
 
+![Screen Shot 2021-03-16 at 11 19 15 AM](https://user-images.githubusercontent.com/32390297/111333825-662ea680-8649-11eb-9319-59a1781cdcef.png)
+
+
 ## This repository contains 
 
 ### The data set is also present in this repository "Alzheimer_s Dataset"
@@ -30,4 +33,19 @@ Classes:
 
 ### The model summary is present "modelsummary.txt" and "model.png"
 
+![Screen Shot 2021-03-16 at 11 19 54 AM](https://user-images.githubusercontent.com/32390297/111333904-7c3c6700-8649-11eb-8b02-e211d2d8ddbf.png)
+
+
+![model](https://user-images.githubusercontent.com/32390297/111333978-8c544680-8649-11eb-8f42-e2eb02fa673d.png)
+
+## Results from training the model on training dataset and validation dataset
+
+![Model_Results](https://user-images.githubusercontent.com/32390297/111334092-a726bb00-8649-11eb-9610-dcf39cb86e7f.png)
+
 ### The results from fitting the test dataset to the model are present in "modelscores_on_test_dataset.txt"
+
+Accuracy =  0.7961297631263733
+Precision =  0.5973597168922424
+Recall =  0.5660672187805176
+AUC =  0.832899272441864
+
