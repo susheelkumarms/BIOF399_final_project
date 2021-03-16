@@ -31,7 +31,7 @@ Classes:
 
 ### You can look at the "final_project_SK.pdf" file for the results and the way the code runs
 
-### The model summary is present "modelsummary.txt" and "model.png"
+### The model summary is present in "modelsummary.txt" and "model.png"
 
 ![Screen Shot 2021-03-16 at 11 19 54 AM](https://user-images.githubusercontent.com/32390297/111333904-7c3c6700-8649-11eb-8b02-e211d2d8ddbf.png)
 
