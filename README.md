@@ -17,3 +17,17 @@ Classes:
 2. VeryMildDemented
 3. NonDemented 
 4. ModerateDemeneted
+
+## This repository contains 
+
+### The data set is also present in this repository "Alzheimer_s Dataset"
+
+### The final file with all the code is final_project_SK.ipynb in this repository
+
+### The pretrained model is alzheimer_model.h5
+
+### You can look at the "final_project_SK.pdf" file for the results and the way the code runs
+
+### The model summary is present "modelsummary.txt" and "model.png"
+
+### The results from fitting the test dataset to the model are present in "modelscores_on_test_dataset.txt"
