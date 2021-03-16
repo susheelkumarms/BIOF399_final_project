@@ -42,10 +42,11 @@ Classes:
 
 ![Model_Results](https://user-images.githubusercontent.com/32390297/111334092-a726bb00-8649-11eb-9610-dcf39cb86e7f.png)
 
+
 ### The results from fitting the test dataset to the model are present in "modelscores_on_test_dataset.txt"
 
-Accuracy =  0.7961297631263733
-Precision =  0.5973597168922424
-Recall =  0.5660672187805176
-AUC =  0.832899272441864
+- Accuracy =  0.7961297631263733
+- Precision =  0.5973597168922424
+- Recall =  0.5660672187805176
+- AUC =  0.832899272441864
 
